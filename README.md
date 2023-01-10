@@ -20,3 +20,5 @@ Ph.D. Advisor
 ##“Bayesian hierarchical modeling for process optimization,” with L. Ouyang, C. Park, Y. Ma and Y. Ma, International Journal of Production Research, Vol. 59, 2021, pp. 4649-4669.
 
 ##“Objective Bayesian testing for the correlation coefficient under divergence-based priors,” with B. Peng, The American Statistician, Vol. 75, 2021, pp. 41-51.
+
+
