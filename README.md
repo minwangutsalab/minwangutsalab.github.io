@@ -1,6 +1,5 @@
 # Min Wang, Ph.D.
-Associate Professor of Management Science and Statistics
-Ph.D. Advisor
+Associate Professor of Statistics
 
 # Recent Publications
 ##“Simulation optimization using stochastic kriging with robust statistics,” with L. Ouyang, M. Han, Y. Ma and C. Park. Journal of the Operational Research Society, in print, 2022.
