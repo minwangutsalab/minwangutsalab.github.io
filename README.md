@@ -1,13 +1,13 @@
 # Min Wang, Ph.D.
-Associate Professor of Management Science and Statistics
+Professor of Statistics
 Ph.D. Advisor
 
 # Recent Publications
-##“Simulation optimization using stochastic kriging with robust statistics,” with L. Ouyang, M. Han, Y. Ma and C. Park. Journal of the Operational Research Society, in print, 2022.
+“Simulation optimization using stochastic kriging with robust statistics,” with L. Ouyang, M. Han, Y. Ma and C. Park. Journal of the Operational Research Society, in print, 2022.
 
-##“A study on the power parameter in power prior Bayesian analysis,” with Z. Han and K. Ye, The American Statistician, in print, 2022.
+“A study on the power parameter in power prior Bayesian analysis,” with Z. Han and K. Ye, The American Statistician, in print, 2022.
 
-##“A study on estimating the parameter of the truncated geometric distribution,” with C. Park and K. Gou, The American Statistician, in print, 2022.
+“A study on estimating the parameter of the truncated geometric distribution,” with C. Park and K. Gou, The American Statistician, in print, 2022.
 
 ##“Bayesian variable selection and estimation in quantile regression using a quantile-specific prior,” with M. Dao, S. Ghosh and K. Ye, Computational Statistics, Vol. 37, 2022, pp. 1339-1368.
 
